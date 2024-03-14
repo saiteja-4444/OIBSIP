@@ -22,7 +22,7 @@ The project was built using the following technologies:
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository:https://github.com/saiteja-4444/OIBSIP.git
 
 
 ## Demo
