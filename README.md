@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 
 ## Demo
 
-Here's a live demo of the Starbucks landing page: [Starbucks Landing Page Demo](http://127.0.0.1:5500/index.html)
+Here's a live demo of the Starbucks landing page: [Starbucks Landing Page Demo]()
 
 
 # TASK 2
@@ -46,6 +46,36 @@ Here's a live demo of the Starbucks landing page: [Starbucks Landing Page Demo](
 
 ![Screenshot 2024-03-15 100822](https://github.com/saiteja-4444/OIBSIP/assets/140083199/758036b4-3a67-4b52-934c-9baa27dc54c7)
 
+## Demo
+
+Here's a live demo of the Starbucks landing page: [Portfolio]()
+
 
 # TASK 3
+# Temperature Wizard
+
+Temperature Wizard is a web-based temperature calculator application built using HTML, CSS, and JavaScript. It allows users to convert temperatures between different units, such as Celsius, Fahrenheit, and Kelvin.
+
+
+## Features
+
+- Temperature conversion between Celsius, Fahrenheit, and Kelvin.
+- Interactive user interface with a sleek design.
+- Real-time temperature conversion as the user enters values.
+- Clear button to reset the input fields.
+- Mobile-friendly and responsive design.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Screenshots
+![Screenshot 2024-03-15 111423](https://github.com/saiteja-4444/OIBSIP/assets/140083199/31e17263-5951-4d7c-a6a9-26276b39dd9f)
+
+## Demo
+
+Here's a live demo of the Starbucks landing page: [Temperature Converter]()
+
+
 
