@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 
 ## Demo
 
-Here's a live demo of the Starbucks landing page: [Starbucks Landing Page Demo]()
+Here's a live demo of the Starbucks landing page: [Starbucks Landing Page Demo](https://starbuckslandingpag.netlify.app/)
 
 
 # TASK 2
